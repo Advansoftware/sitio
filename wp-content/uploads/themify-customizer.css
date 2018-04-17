@@ -1,0 +1,49 @@
+/* Themify Customize Styling */
+#headerwrap {	background: none;
+	background-color: #3b3b3b; 
+}
+#site-logo {	
+	top: -5px; 
+}
+#site-logo img {		width: 100px; 
+}
+#site-description {	display: none; 
+}
+#main-nav {		position:relative;
+
+	top: 5px;
+	padding-top: 2%; 
+}
+#main-nav a {	
+	font-family:Open Sans;	font-weight:normal;
+	font-size:16px;
+ 
+}
+#main-nav-wrap #main-nav a:hover, #main-nav-wrap #main-nav > li > a:hover {	
+	color: #e6e6e6; 
+}
+#main-nav-wrap #main-nav .current_page_item > a, #main-nav .current-menu-item > a, #main-nav > .current_page_item > a, #main-nav > .current-menu-item > a {	
+	color: #ffffff; 
+}
+#main-nav-wrap #main-nav .current_page_item a:hover,  #main-nav .current-menu-item a:hover {	
+	color: #e6e6e6; 
+}
+#footerwrap {	background: none;
+	background-color: #292929; 
+}
+#footer {	
+	color: #ffffff; 
+}
+#footer a {	
+	color: #ffffff; 
+}
+@media screen and (max-width: 1280px) { /* Themify Customize Styling */
+#site-logo img {		width: 100px; 
+}
+ }@media screen and (max-width: 768px) { /* Themify Customize Styling */
+#site-logo img {		width: 100px; 
+}
+ }@media screen and (max-width: 680px) { /* Themify Customize Styling */
+#site-logo img {		width: 100px; 
+}
+ }
