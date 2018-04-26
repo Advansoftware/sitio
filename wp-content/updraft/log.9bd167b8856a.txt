@@ -1,0 +1,155 @@
+0000.001 (0) Opened log file at time: Thu, 26 Apr 2018 20:19:46 +0000 on http://localhost/sitio
+0000.016 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 2.13.16.22 WP: 4.9.5 PHP: 7.2.0 (apache2handler, Windows NT DESKTOP-RGF5RF7 10.0 build 16299 (Windows 10) i586) MySQL: 5.5.5 WPLANG: pt_BR Server: Apache/2.4.29 (Win32) OpenSSL/1.1.0g PHP/7.2.0 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 37.5M | 2M) multisite: N openssl: OpenSSL 1.1.0g  2 Nov 2017 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.050 (0) Free space on disk containing Updraft's temporary directory: 361745.4 MB
+0000.096 (0) Tasks: Backup files: 1 (schedule: unset) Backup DB: 1 (schedule: unset)
+0000.134 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.334 (0) Set semaphore last lock (fd) time to 2018-04-26 20:19:46
+0000.375 (0) Semaphore lock (fd) complete
+0000.495 (0) Backup run: resumption=0, nonce=9bd167b8856a, begun at=1524773986 (0s ago), job type=backup
+0000.575 (0) Scheduling a resumption (1) after 300 seconds (1524774286) in case this run gets aborted
+0000.708 (0) Checking if we have a zip executable available
+0000.842 (0) Creation of backups of directories: beginning
+0000.921 (0) PHP event: code E_WARNING: count(): Parameter must be an array or an object that implements Countable (line 1432, C:\xampp\htdocs\sitio\wp-content\plugins\updraftplus\backup.php)
+0000.959 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0002.420 (0) Total entities for the zip file: 498 directories, 2689 files (0 skipped as non-modified), 30.8 MB
+0002.539 (0) Zip: backup_2018-04-26-1719_Sitio_Dona_Marta_9bd167b8856a-plugins.zip.tmp: 100 files added (on-disk size: 0 KB)
+0002.605 (0) Zip: backup_2018-04-26-1719_Sitio_Dona_Marta_9bd167b8856a-plugins.zip.tmp: 200 files added (on-disk size: 0 KB)
+0002.809 (0) Zip: backup_2018-04-26-1719_Sitio_Dona_Marta_9bd167b8856a-plugins.zip.tmp: 300 files added (on-disk size: 0 KB)
+0002.930 (0) Zip: backup_2018-04-26-1719_Sitio_Dona_Marta_9bd167b8856a-plugins.zip.tmp: 400 files added (on-disk size: 0 KB)
+0003.058 (0) Zip: backup_2018-04-26-1719_Sitio_Dona_Marta_9bd167b8856a-plugins.zip.tmp: 500 files added (on-disk size: 0 KB)
+0003.093 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (3 MB, 2689 files batched, 501 (501) added so far); re-opening (prior size: 0 KB)
+0003.605 (0) Zip: backup_2018-04-26-1719_Sitio_Dona_Marta_9bd167b8856a-plugins.zip.tmp: 600 files added (on-disk size: 1136.6 KB)
+0003.741 (0) Zip: backup_2018-04-26-1719_Sitio_Dona_Marta_9bd167b8856a-plugins.zip.tmp: 700 files added (on-disk size: 1136.6 KB)
+0003.815 (0) Zip: backup_2018-04-26-1719_Sitio_Dona_Marta_9bd167b8856a-plugins.zip.tmp: 800 files added (on-disk size: 1136.6 KB)
+0003.891 (0) Zip: backup_2018-04-26-1719_Sitio_Dona_Marta_9bd167b8856a-plugins.zip.tmp: 900 files added (on-disk size: 1136.6 KB)
+0003.967 (0) Zip: backup_2018-04-26-1719_Sitio_Dona_Marta_9bd167b8856a-plugins.zip.tmp: 1000 files added (on-disk size: 1136.6 KB)
+0003.995 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (9.4 MB, 2689 files batched, 501 (1002) added so far); re-opening (prior size: 1136.6 KB)
+0005.068 (0) Zip: backup_2018-04-26-1719_Sitio_Dona_Marta_9bd167b8856a-plugins.zip.tmp: 1100 files added (on-disk size: 4487.1 KB)
+0005.167 (0) Zip: backup_2018-04-26-1719_Sitio_Dona_Marta_9bd167b8856a-plugins.zip.tmp: 1200 files added (on-disk size: 4487.1 KB)
+0005.234 (0) Zip: backup_2018-04-26-1719_Sitio_Dona_Marta_9bd167b8856a-plugins.zip.tmp: 1300 files added (on-disk size: 4487.1 KB)
+0005.314 (0) Zip: backup_2018-04-26-1719_Sitio_Dona_Marta_9bd167b8856a-plugins.zip.tmp: 1400 files added (on-disk size: 4487.1 KB)
+0005.386 (0) Zip: backup_2018-04-26-1719_Sitio_Dona_Marta_9bd167b8856a-plugins.zip.tmp: 1500 files added (on-disk size: 4487.1 KB)
+0005.432 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (11.6 MB, 2689 files batched, 501 (1503) added so far); re-opening (prior size: 4487.1 KB)
+0006.860 (0) Zip: backup_2018-04-26-1719_Sitio_Dona_Marta_9bd167b8856a-plugins.zip.tmp: 1600 files added (on-disk size: 7509.2 KB)
+0006.945 (0) Zip: backup_2018-04-26-1719_Sitio_Dona_Marta_9bd167b8856a-plugins.zip.tmp: 1700 files added (on-disk size: 7509.2 KB)
+0007.048 (0) Zip: backup_2018-04-26-1719_Sitio_Dona_Marta_9bd167b8856a-plugins.zip.tmp: 1800 files added (on-disk size: 7509.2 KB)
+0007.163 (0) Zip: backup_2018-04-26-1719_Sitio_Dona_Marta_9bd167b8856a-plugins.zip.tmp: 1900 files added (on-disk size: 7509.2 KB)
+0007.324 (0) Zip: backup_2018-04-26-1719_Sitio_Dona_Marta_9bd167b8856a-plugins.zip.tmp: 2000 files added (on-disk size: 7509.2 KB)
+0007.381 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (3.4 MB, 2689 files batched, 501 (2004) added so far); re-opening (prior size: 7509.2 KB)
+0008.049 (0) Zip: backup_2018-04-26-1719_Sitio_Dona_Marta_9bd167b8856a-plugins.zip.tmp: 2100 files added (on-disk size: 8457.7 KB)
+0008.125 (0) Zip: backup_2018-04-26-1719_Sitio_Dona_Marta_9bd167b8856a-plugins.zip.tmp: 2200 files added (on-disk size: 8457.7 KB)
+0008.219 (0) Zip: backup_2018-04-26-1719_Sitio_Dona_Marta_9bd167b8856a-plugins.zip.tmp: 2300 files added (on-disk size: 8457.7 KB)
+0008.290 (0) Zip: backup_2018-04-26-1719_Sitio_Dona_Marta_9bd167b8856a-plugins.zip.tmp: 2400 files added (on-disk size: 8457.7 KB)
+0008.362 (0) Zip: backup_2018-04-26-1719_Sitio_Dona_Marta_9bd167b8856a-plugins.zip.tmp: 2500 files added (on-disk size: 8457.7 KB)
+0008.411 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (2.6 MB, 2689 files batched, 501 (2505) added so far); re-opening (prior size: 8457.7 KB)
+0009.230 (0) Zip: backup_2018-04-26-1719_Sitio_Dona_Marta_9bd167b8856a-plugins.zip.tmp: 2600 files added (on-disk size: 9350 KB)
+0009.979 (0) Created plugins zip (0) - 9619.4 KB in 9 s (1073.3 KB/s) (sha1: 0d6592e0d41452632b6c9d2f76078db08b597015, sha256: c0b8a07acf3913cbdbbb7a64bd8add938714cd7d18472052d5d0c0a8d638a737)
+0010.017 (0) PHP event: code E_WARNING: count(): Parameter must be an array or an object that implements Countable (line 1432, C:\xampp\htdocs\sitio\wp-content\plugins\updraftplus\backup.php)
+0010.051 (0) Beginning creation of dump of themes (split every: 400 MB)
+0010.544 (0) Total entities for the zip file: 99 directories, 823 files (0 skipped as non-modified), 18.7 MB
+0010.614 (0) Zip: backup_2018-04-26-1719_Sitio_Dona_Marta_9bd167b8856a-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0010.714 (0) Zip: backup_2018-04-26-1719_Sitio_Dona_Marta_9bd167b8856a-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0010.807 (0) Zip: backup_2018-04-26-1719_Sitio_Dona_Marta_9bd167b8856a-themes.zip.tmp: 300 files added (on-disk size: 0 KB)
+0010.898 (0) Zip: backup_2018-04-26-1719_Sitio_Dona_Marta_9bd167b8856a-themes.zip.tmp: 400 files added (on-disk size: 0 KB)
+0010.982 (0) Zip: backup_2018-04-26-1719_Sitio_Dona_Marta_9bd167b8856a-themes.zip.tmp: 500 files added (on-disk size: 0 KB)
+0011.026 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (13 MB, 823 files batched, 501 (501) added so far); re-opening (prior size: 0 KB)
+0012.041 (0) Zip: backup_2018-04-26-1719_Sitio_Dona_Marta_9bd167b8856a-themes.zip.tmp: 600 files added (on-disk size: 3393.4 KB)
+0012.147 (0) Zip: backup_2018-04-26-1719_Sitio_Dona_Marta_9bd167b8856a-themes.zip.tmp: 700 files added (on-disk size: 3393.4 KB)
+0012.279 (0) Zip: backup_2018-04-26-1719_Sitio_Dona_Marta_9bd167b8856a-themes.zip.tmp: 800 files added (on-disk size: 3393.4 KB)
+0013.035 (0) Created themes zip (0) - 6521.4 KB in 2.9 s (2232.7 KB/s) (sha1: 44b8a7c5652dc881759052147a3d8b9d6b59d6fa, sha256: 4ef1f9eba91d67b8e2ce3f09b78a39c99f7ce984d2fa3f667967b6b7f599eaed)
+0013.084 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0013.117 (0) Looking for candidates to back up in: C:\xampp\htdocs\sitio/wp-content/uploads
+0013.134 (0) finding files: 2018: adding to list (1)
+0013.167 (0) finding files: themify: adding to list (2)
+0013.200 (0) finding files: themify-css: adding to list (3)
+0013.234 (0) finding files: themify-customizer.css: adding to list (4)
+0013.250 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0013.362 (0) Total entities for the zip file: 6 directories, 28 files (0 skipped as non-modified), 0.7 MB
+0013.543 (0) Created uploads zip (0) - 704.2 KB in 0.2 s (2828.4 KB/s) (sha1: d8a93fbfdf75fd708498f7b86e58482e71443235, sha256: d569265ed65d5c184bd3e214bb7c77015aebc7c0d068b383f3c2dd4fd6fbee37)
+0013.560 (0) No backup of wpcore: excluded by user's options
+0013.610 (0) Beginning backup of other directories found in the content directory (index: 0)
+0013.698 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0013.858 (0) Looking for candidates to back up in: C:\xampp\htdocs\sitio/wp-content
+0013.909 (0) finding files: index.php: adding to list (1)
+0013.950 (0) finding files: languages: adding to list (2)
+0013.984 (0) finding files: plugins: skipping: this is the plugins directory
+0014.026 (0) finding files: themes: skipping: this is the themes directory
+0014.059 (0) finding files: updraft: skipping: this is the updraft directory
+0014.091 (0) finding files: upgrade: skipping: excluded by options
+0014.109 (0) finding files: uploads: skipping: this is the uploads directory
+0014.209 (0) Total entities for the zip file: 3 directories, 17 files (0 skipped as non-modified), 1.7 MB
+0014.552 (0) Created others zip (0) - 499 KB in 0.4 s (1264.5 KB/s) (sha1: f043119c184f4d6949b5b9bb49bbfdc36ed21070, sha256: 16cb6e1210339febae2c4d217976f78f0cffb33666dacc4a4b9ba2163a20dd37)
+0014.603 (0) No backup of more: excluded by user's options
+0014.876 (0) Saving backup status to database (elements: 8)
+0014.909 (0) Beginning creation of database dump (WordPress DB)
+0015.026 (0) Table wp_options: Total expected rows (approximate): 223
+0015.100 (0) Table wp_options: Total rows added: 224 in 0.06 seconds
+0015.142 (0) Table wp_options: finishing file (backup_2018-04-26-1719_Sitio_Dona_Marta_9bd167b8856a-db-table-wp_options.table.gz - 84.3 KB)
+0015.221 (0) Table wp_users: Total expected rows (approximate): 0
+0015.259 (0) Table wp_users: Total rows added: 1 in 0.02 seconds
+0015.310 (0) Table wp_users: finishing file (backup_2018-04-26-1719_Sitio_Dona_Marta_9bd167b8856a-db-table-wp_users.table.gz - 0.6 KB)
+0015.416 (0) Table wp_usermeta: Total expected rows (approximate): 26
+0015.471 (0) Table wp_usermeta: Total rows added: 26 in 0.01 seconds
+0015.506 (0) Table wp_usermeta: finishing file (backup_2018-04-26-1719_Sitio_Dona_Marta_9bd167b8856a-db-table-wp_usermeta.table.gz - 1.3 KB)
+0015.657 (0) Table wp_commentmeta: Total expected rows (approximate): 2
+0015.866 (0) Table wp_commentmeta: Total rows added: 2 in 0.12 seconds
+0015.903 (0) Table wp_commentmeta: finishing file (backup_2018-04-26-1719_Sitio_Dona_Marta_9bd167b8856a-db-table-wp_commentmeta.table.gz - 0.4 KB)
+0016.002 (0) Table wp_comments: Total expected rows (approximate): 0
+0016.071 (0) Table wp_comments: Total rows added: 1 in 0.04 seconds
+0016.127 (0) Table wp_comments: finishing file (backup_2018-04-26-1719_Sitio_Dona_Marta_9bd167b8856a-db-table-wp_comments.table.gz - 0.7 KB)
+0016.243 (0) Table wp_links: Total expected rows (approximate): 0
+0016.278 (0) Table wp_links: Total rows added: 0 in 0.01 seconds
+0016.322 (0) Table wp_links: finishing file (backup_2018-04-26-1719_Sitio_Dona_Marta_9bd167b8856a-db-table-wp_links.table.gz - 0.4 KB)
+0016.419 (0) Table wp_postmeta: Total expected rows (approximate): 155
+0016.510 (0) Table wp_postmeta: Total rows added: 170 in 0.07 seconds
+0016.561 (0) Table wp_postmeta: finishing file (backup_2018-04-26-1719_Sitio_Dona_Marta_9bd167b8856a-db-table-wp_postmeta.table.gz - 11 KB)
+0016.739 (0) Table wp_posts: Total expected rows (approximate): 99
+0017.010 (0) Table wp_posts: Total rows added: 99 in 0.04 seconds
+0017.055 (0) Table wp_posts: finishing file (backup_2018-04-26-1719_Sitio_Dona_Marta_9bd167b8856a-db-table-wp_posts.table.gz - 7 KB)
+0017.184 (0) Table wp_term_relationships: Total expected rows (approximate): 5
+0017.235 (0) Table wp_term_relationships: Total rows added: 5 in 0.02 seconds
+0017.269 (0) Table wp_term_relationships: finishing file (backup_2018-04-26-1719_Sitio_Dona_Marta_9bd167b8856a-db-table-wp_term_relationships.table.gz - 0.4 KB)
+0017.378 (0) Table wp_term_taxonomy: Total expected rows (approximate): 2
+0017.422 (0) Table wp_term_taxonomy: Total rows added: 2 in 0.01 seconds
+0017.483 (0) Table wp_term_taxonomy: finishing file (backup_2018-04-26-1719_Sitio_Dona_Marta_9bd167b8856a-db-table-wp_term_taxonomy.table.gz - 0.4 KB)
+0017.587 (0) Table wp_termmeta: Total expected rows (approximate): 0
+0017.715 (0) Table wp_termmeta: Total rows added: 0 in 0.05 seconds
+0017.779 (0) Table wp_termmeta: finishing file (backup_2018-04-26-1719_Sitio_Dona_Marta_9bd167b8856a-db-table-wp_termmeta.table.gz - 0.4 KB)
+0017.942 (0) Table wp_terms: Total expected rows (approximate): 2
+0018.043 (0) Table wp_terms: Total rows added: 2 in 0.06 seconds
+0018.111 (0) Table wp_terms: finishing file (backup_2018-04-26-1719_Sitio_Dona_Marta_9bd167b8856a-db-table-wp_terms.table.gz - 0.4 KB)
+0018.237 (0) backup_2018-04-26-1719_Sitio_Dona_Marta_9bd167b8856a-db-table-wp_options.table.gz (1/12): adding to final database dump
+0018.313 (0) backup_2018-04-26-1719_Sitio_Dona_Marta_9bd167b8856a-db-table-wp_users.table.gz (2/12): adding to final database dump
+0018.326 (0) backup_2018-04-26-1719_Sitio_Dona_Marta_9bd167b8856a-db-table-wp_usermeta.table.gz (3/12): adding to final database dump
+0018.359 (0) backup_2018-04-26-1719_Sitio_Dona_Marta_9bd167b8856a-db-table-wp_commentmeta.table.gz (4/12): adding to final database dump
+0018.384 (0) backup_2018-04-26-1719_Sitio_Dona_Marta_9bd167b8856a-db-table-wp_comments.table.gz (5/12): adding to final database dump
+0018.427 (0) backup_2018-04-26-1719_Sitio_Dona_Marta_9bd167b8856a-db-table-wp_links.table.gz (6/12): adding to final database dump
+0018.443 (0) backup_2018-04-26-1719_Sitio_Dona_Marta_9bd167b8856a-db-table-wp_postmeta.table.gz (7/12): adding to final database dump
+0018.471 (0) backup_2018-04-26-1719_Sitio_Dona_Marta_9bd167b8856a-db-table-wp_posts.table.gz (8/12): adding to final database dump
+0018.506 (0) backup_2018-04-26-1719_Sitio_Dona_Marta_9bd167b8856a-db-table-wp_term_relationships.table.gz (9/12): adding to final database dump
+0018.544 (0) backup_2018-04-26-1719_Sitio_Dona_Marta_9bd167b8856a-db-table-wp_term_taxonomy.table.gz (10/12): adding to final database dump
+0018.559 (0) backup_2018-04-26-1719_Sitio_Dona_Marta_9bd167b8856a-db-table-wp_termmeta.table.gz (11/12): adding to final database dump
+0018.584 (0) backup_2018-04-26-1719_Sitio_Dona_Marta_9bd167b8856a-db-table-wp_terms.table.gz (12/12): adding to final database dump
+0018.610 (0) backup_2018-04-26-1719_Sitio_Dona_Marta_9bd167b8856a-db.gz: finished writing out complete database file (80 KB)
+0018.869 (0) Total database tables backed up: 12 (backup_2018-04-26-1719_Sitio_Dona_Marta_9bd167b8856a-db.gz, size: 107719, sha256)
+0018.983 (0) backup_2018-04-26-1719_Sitio_Dona_Marta_9bd167b8856a-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0019.019 (0) backup_2018-04-26-1719_Sitio_Dona_Marta_9bd167b8856a-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0019.042 (0) backup_2018-04-26-1719_Sitio_Dona_Marta_9bd167b8856a-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0019.061 (0) backup_2018-04-26-1719_Sitio_Dona_Marta_9bd167b8856a-others.zip: others: This file has not yet been successfully uploaded: will queue
+0019.083 (0) backup_2018-04-26-1719_Sitio_Dona_Marta_9bd167b8856a-db.gz: db: This file has not yet been successfully uploaded: will queue
+0019.119 (0) Saving backup history. Total backup size: 17 MB
+0019.161 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0019.244 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0019.258 (0) No remote despatch: user chose no remote backup service
+0019.311 (0) Recording as successfully uploaded: backup_2018-04-26-1719_Sitio_Dona_Marta_9bd167b8856a-plugins.zip (2ec8105a927f25ff8609c2d797000117)
+0019.478 (0) Recording as successfully uploaded: backup_2018-04-26-1719_Sitio_Dona_Marta_9bd167b8856a-themes.zip (74417df9a650e6fe64373a1c1e7ea180)
+0019.761 (0) Recording as successfully uploaded: backup_2018-04-26-1719_Sitio_Dona_Marta_9bd167b8856a-uploads.zip (fd3f43307f022ffa783b01deb1c9193e)
+0020.158 (0) Recording as successfully uploaded: backup_2018-04-26-1719_Sitio_Dona_Marta_9bd167b8856a-others.zip (31f3112039bd9d6d94e9c8bc906feed3)
+0020.283 (0) Recording as successfully uploaded: backup_2018-04-26-1719_Sitio_Dona_Marta_9bd167b8856a-db.gz (995163a4a19d8a8f0d1e619153cbab7a)
+0020.401 (0) Prune old backups from local store: nothing to do, since the user disabled local deletion and we are using local backups
+0020.437 (0) Resume backup (9bd167b8856a, 0): finish run
+0020.550 (0) Decremented the semaphore (fd) by 1
+0020.675 (0) Semaphore (fd) unlocked
+0020.758 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0021.060 (0) No email will/can be sent - the user has not configured an email address.
+0021.134 (0) The backup apparently succeeded and is now complete
