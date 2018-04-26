@@ -2,6 +2,9 @@
 #headerwrap {	background: none;
 	background-color: #3b3b3b; 
 }
+#headerwrap.fixed-header, .transparent-header #headerwrap.fixed-header {	background: none;
+	background-color: #3b3b3b; 
+}
 #site-logo {	
 	top: -5px; 
 }
@@ -19,11 +22,20 @@
 	font-size:16px;
  
 }
+#main-nav a, #main-nav > li > a, .transparent-header #main-nav a {	
+	color: #ffffff; 
+}
+#main-nav-wrap #main-nav a:hover {	background: none;
+	background-color: #ffffff; 
+}
 #main-nav-wrap #main-nav a:hover, #main-nav-wrap #main-nav > li > a:hover {	
-	color: #e6e6e6; 
+	color: #3d3d3d; 
+}
+#main-nav-wrap #main-nav .current_page_item > a, #main-nav .current-menu-item > a {	background: none;
+	background-color: #ffffff; 
 }
 #main-nav-wrap #main-nav .current_page_item > a, #main-nav .current-menu-item > a, #main-nav > .current_page_item > a, #main-nav > .current-menu-item > a {	
-	color: #ffffff; 
+	color: #000000; 
 }
 #main-nav-wrap #main-nav .current_page_item a:hover,  #main-nav .current-menu-item a:hover {	
 	color: #e6e6e6; 
@@ -37,7 +49,14 @@
 #footer a {	
 	color: #ffffff; 
 }
-@media screen and (max-width: 1280px) { /* Themify Customize Styling */
+
+/* Themify Custom CSS */
+.btn-sitio a{
+	background-color: rgba(0,0,0,.3) !important;
+}
+.btn-sitio a:hover{
+	background-color: rgba(0,0,0,.6) !important;
+}@media screen and (max-width: 1280px) { /* Themify Customize Styling */
 #site-logo img {		width: 100px; 
 }
  }@media screen and (max-width: 768px) { /* Themify Customize Styling */
